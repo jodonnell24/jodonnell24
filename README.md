@@ -1,38 +1,35 @@
-# Hi, I am Jacqueline O'Donnell
+# Jacqueline O'Donnell
 
-I am a recent Applied Computing graduate focused on remote technical work, especially cloud infrastructure, Kubernetes, DevOps, SRE, support engineering, and technical operations roles.
+Principal of [Jacqueline O'Donnell LLC](https://jacquelineodonnell.com), a
+Washington technical-services company focused on systems implementation,
+cloud infrastructure, workflow tooling, documentation, and operational
+handoff.
 
-My strongest project work comes from building and operating infrastructure myself: a self-managed Kubernetes homelab, Terraform and Ansible automation, GitOps-style cluster configuration, observability, and a homelab-to-AWS migration. I am currently preparing for the AWS Solutions Architect Associate exam.
+I build principal-led, defined-scope systems with explicit acceptance criteria
+and clear handoff. The projects on this profile are self-directed capability
+evidence; they are not client engagements or company past performance.
 
-## Best Repos To Review
+## Selected capability evidence
 
-### [Shift](https://github.com/jodonnell24/Shift)
+- [Shift](https://github.com/jodonnell24/Shift) — reproducible Kubernetes
+  infrastructure on AWS using Terraform and Ansible, with validation,
+  documentation, and teardown.
+- [Screenstage](https://github.com/jodonnell24/screenstage) — TypeScript
+  workflow tooling for browser capture and media rendering into versioned
+  artifacts.
+- [PTZ](https://github.com/jodonnell24/PTZ) — privacy-conscious telepresence
+  control using WebRTC, WebSockets, device adapters, rate limits, and audit
+  events.
 
-Homelab Kubernetes lift-and-shift to AWS. This repo translates a Proxmox-based Kubernetes setup into AWS infrastructure using Terraform, EC2, VPC networking, IAM, security groups, Ansible, kubeadm, and Calico.
+## Current focus
 
-Why it matters: it shows infrastructure reasoning across local and cloud environments, not just a single happy-path tutorial.
+- Systems implementation and integration
+- Cloud infrastructure and automation
+- Workflow tooling and operational handoff
+- Testable acceptance and durable documentation
 
-### [k8s-gitops](https://github.com/jodonnell24/k8s-gitops)
+## Contact
 
-Flux-managed Kubernetes homelab configuration with cluster entrypoints, shared infrastructure, app workloads, cert-manager, monitoring, sealed-secrets patterns, Open WebUI, and private access components.
-
-Why it matters: it shows ongoing Kubernetes operations, configuration structure, and GitOps habits.
-
-### [CatOps](https://github.com/jodonnell24/CatOps)
-
-A small Go web app packaged for Kubernetes with Docker, Helm, and an Argo CD application manifest.
-
-Why it matters: it connects application code to container packaging and cluster deployment.
-
-## Tools I Have Been Working With
-
-- Cloud and infrastructure: AWS, EC2, VPC, IAM, CloudFormation, Terraform, Ansible, Linux, Bash
-- Kubernetes and containers: Kubernetes, kubeadm, k3s, Docker, Helm, Calico, NGINX Ingress, MetalLB
-- GitOps and observability: Flux CD, Argo CD, Prometheus, Loki, Grafana, GitHub Actions
-- Programming: Python, Go, Bash, SQL
-- Networking: TCP/IP, DNS, VLANs, tcpdump, Wireshark, nmap, dig
-
-## What I Am Looking For
-
-I am looking for remote technical roles where I can troubleshoot systems, support users or engineers, document workflows, and keep growing toward cloud infrastructure work. Strong fits include cloud support, technical support engineering, implementation engineering, IT operations, DevOps, platform, SRE, and junior cloud/infrastructure roles.
-
+- Company: https://jacquelineodonnell.com
+- Email: contact@jacquelineodonnell.com
+- LinkedIn: https://www.linkedin.com/in/jacqueline-o-donnell/
