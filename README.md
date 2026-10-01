@@ -1,15 +1,33 @@
 # Jacqueline O'Donnell
 
 Principal of [Jacqueline O'Donnell LLC](https://jacquelineodonnell.com), a
-Washington technical-services company focused on systems implementation,
-cloud infrastructure, workflow tooling, documentation, and operational
-handoff.
+Washington company providing research, compliance support, documentation,
+operational services, and workflow systems for businesses and organizations.
 
-I build principal-led, defined-scope systems with explicit acceptance criteria
-and clear handoff. The projects on this profile are self-directed capability
-evidence; they are not client engagements or company past performance.
+I help turn questions and requirements into verified findings, organized
+records, practical documentation, and useful workflows. Delivery is
+principal-led and remote-first, with clear scope, review, and handoff.
 
-## Selected capability evidence
+I use AI-assisted tools for research, documentation, and workflow execution,
+with human direction, source verification, and review. I welcome clearly scoped
+project inquiries; scope, timing, and availability are confirmed before I
+commit to new work.
+
+## Services
+
+- Research and information support: public-source research, source checks,
+  requirement research, and structured findings.
+- Compliance support: licensing research, requirement tracking, document
+  preparation, and coordination within an agreed scope.
+- Documentation and operations: process documentation, organized records,
+  task coordination, and practical handoffs.
+- Workflow and systems: spreadsheets, connected tools, integrations,
+  automation, and scoped technical implementation.
+
+## Selected technical capability evidence
+
+These projects are self-directed capability evidence. They are not client
+engagements or company past performance.
 
 - [Shift](https://github.com/jodonnell24/Shift) — reproducible Kubernetes
   infrastructure on AWS using Terraform and Ansible, with validation,
@@ -20,13 +38,6 @@ evidence; they are not client engagements or company past performance.
 - [PTZ](https://github.com/jodonnell24/PTZ) — privacy-conscious telepresence
   control using WebRTC, WebSockets, device adapters, rate limits, and audit
   events.
-
-## Current focus
-
-- Systems implementation and integration
-- Cloud infrastructure and automation
-- Workflow tooling and operational handoff
-- Testable acceptance and durable documentation
 
 ## Contact
 
